@@ -19,7 +19,7 @@ const userSchema = new Schema({
         min: 6,
         max: 64
     },
-    password: {
+    picture: {
         type: String,
         default: '/avatar.png'
     },
