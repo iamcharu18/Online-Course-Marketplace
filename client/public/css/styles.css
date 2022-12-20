@@ -1,0 +1,9 @@
+.square {
+    height: 10rem;
+    color: #fff;
+    border-radius: 0px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.8), rgba(255, 0, 0, 0.8), rgba(255, 0, 0, 1));
+}
